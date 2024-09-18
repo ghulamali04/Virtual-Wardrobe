@@ -1,0 +1,2786 @@
+{
+	"PANELS": [
+		{
+			"GROUP": "Standard Colors",
+			"COLORS": [
+				{
+					"NAME": "Anthracite Fine Metalic H3190",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteFineMetallicH3190.jpg"
+				},
+				{
+					"NAME": "Anthracite Linen F433",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteLinenF433.jpg"
+				},
+				{
+					"NAME": "Anthracite Metal Fabric F461",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteMetalFabricF461.jpg"
+				},
+				{
+					"NAME": "Black Brown Ferrara Oak",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackBrownFerraraOakH1137.jpg"
+				},
+				{
+					"NAME": "Black Gold Metal Slate F629",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackGoldMetalSlateF629.jpg"
+				},
+				{
+					"NAME": "Black U999",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackU999.jpg"
+				}, 
+				{
+					"NAME": "Black Pietra Grigia F206",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackPietraGrigiaF206.jpg"
+				},
+				{
+					"NAME": "Brushed Aluminium F501",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BrushedAluminiumF501.jpg"
+				},
+				{
+					"NAME": "Carbon Grey U968",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CarbonGreyU968.jpg"
+				},
+				{
+					"NAME": "Cashmere U702",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CashmereU702.jpg"
+				},
+				{
+					"NAME": "Crystal Marbel F800",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CrystalMarbleF800.jpg"
+				},
+				{
+					"NAME": "Elmau Beech H1582",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ElmauBeechH1582.jpg"
+				},
+				{
+					"NAME": "Fjord Green U636",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_FjordGreenU636.jpg"
+				},
+				{
+					"NAME": "Grey Textile F417",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyTextileF417.jpg"
+				},
+				{
+					"NAME": "Grey Vincenza Oak H3158",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyVincenzaOakH3158.jpg"
+				},
+				{
+					"NAME": "Kaiserberg Oak H3349",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_KaiserbergOakH3349.jpg"
+				},
+				{
+					"NAME": "Light Ferrara Oak H1334",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LightFerraraOakH1334.jpg"
+				},
+				{
+					"NAME": "Lincoln Walnut H1714",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LincolnWalnutH1714.jpg"
+				},
+				{
+					"NAME": "Natural Karini Walnut H3710",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_NaturalKariniWalnutH3710.jpg"
+				},
+				{
+					"NAME": "Dakar U717",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DakarU717.jpg"
+				},
+				{
+					"NAME": "Dark Grey Chicago Concrete F187",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DarkGreyChicagoConcreteF187.jpg"
+				},
+				{
+					"NAME": "Dust Grey U732",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DustGreyU732.jpg"
+				},
+				{
+					"NAME": "Oiled Kendal Oak H3171",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_OiledKendalOakH3171.jpg"
+				},
+				{
+					"NAME": "Pebble Grey U201",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PebbleGreyU201.jpg"
+				},
+				{
+					"NAME": "Premium White W1000",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PremiumWhiteW1000.jpg"
+				},
+				{
+					"NAME": "Shorewood H3090",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ShorewoodH3090.jpg"
+				},
+				{
+					"NAME": "Silver Grey Metal State F628",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SilverGreyMetalSlateF628.jpg"
+				},
+				{
+					"NAME": "Stone Grey U727",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_StoneGreyU727.jpg"
+				},
+				{
+					"NAME": "Super White Ash W980",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SuperWhiteAshW980.jpg"
+				},
+				{
+					"NAME": "Taupe Grey U750",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_TaupeGreyU750.jpg"
+				},
+				{
+					"NAME": "Vintage Santa Fe Oak H1330",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColoursVintageSantaFeOakH1330.jpg"
+				},
+				{
+					"NAME": "White Chromix F637",
+					"PRICE_GROUP": "MFC_Panel",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_WhiteChromixF637.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "MFC_Panel",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 47.23
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 70.39
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 70.39
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 78.93
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 29.55
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 44.00
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 44.00
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 49.33
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 24.41
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 36.37
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 36.37
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 40.79
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 18.32
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 27.27
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 27.27
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 30.59
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 9.17
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 13.63
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 13.63
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 15.29
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"GROUP": "Premium Colors",
+			"COLORS": [
+				{
+					"NAME": "Anthracite Metal Rock F121",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_AnthraciteMetalRockF121.jpg"
+				},
+				{
+					"NAME": "Black Glazed Halifax Oak H3178",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_BlackGlazedHalifaxOakH3178.jpg"
+				},
+				{
+					"NAME": "Grey Brown Whiteriver Oak H1313",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_GreyBrownWhiteriverOakH1313.jpg"
+				},
+				{
+					"NAME": "Light Grey Candela Marble F243",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_LightGreyCandelaMarbleF243.jpg"
+				},
+				{
+					"NAME": "Natural Halifax Oak H1180",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_NaturalHalifaxOakH1180.jpg"
+				},
+				{
+					"NAME": "Sand Grey Halifax Oak H1336",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_SandGreyHalifaxOakH1336.jpg"
+				},
+				{
+					"NAME": "Scivaro Slate F235",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_ScivaroSlateF235.jpg"
+				},
+				{
+					"NAME": "White Halifax Oak H1176",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_WhiteHalifaxOakH1176.jpg"
+				},
+				{
+					"NAME": "Whitewood H1122",
+					"PRICE_GROUP": "Premium",
+					"SRC": "static/IDSWebSwatches/MFCPremiumColours/MFCPremiumColours_WhitewoodH1122.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "Premium",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 94.57
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 140.78
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 140.78
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 157.78
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 59.10
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 87.99
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 87.99
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 98.67
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 48.83
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 72.75
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 72.75
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 81.58
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 36.65
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 54.53
+								}, 
+								{
+									"SIZE": 1070,
+									"PRICE": 54.53
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 61.17
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 18.34
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 27.27
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 27.27
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 30.59
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"GROUP": "Mirrors",
+			"COLORS": [
+				{
+					"NAME": "Silver Mirror",
+					"PRICE_GROUP": "Silver_Mirror",
+					"SRC": "static/IDSWebSwatches/Mirrors/Mirrors_SilverMirror.jpg"
+				},
+				{
+					"NAME": "Bronze Mirror",
+					"PRICE_GROUP": "Grey_Bronze_Mirror",
+					"SRC": "static/IDSWebSwatches/Mirrors/Mirrors_BronzeMirror.jpg"
+				},
+				{
+					"NAME": "Grey Mirror",
+					"PRICE_GROUP": "Grey_Bronze_Mirror",
+					"SRC": "static/IDSWebSwatches/Mirrors/Mirrors_GreyMirror.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "Silver_Mirror",
+					"EXTRA": false,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 44.17
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 78.50
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 78.50
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 89.34
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 20.66
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 42.01
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 42.01
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 47.81
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 15.49
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 31.51
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 31.51
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 35.86
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 7.75
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 15.76
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 15.76
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 17.94
+								}
+							]
+						}
+					]
+				},
+				{
+					"PRICE_GROUP": "Grey_Bronze_Mirror",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 49.57
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 100.83
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 100.83
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 114.76
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 30.98
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 63.02
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 63.02
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 71.72
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 20.66
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 42.01
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 42.01
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 47.81
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 15.49
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 31.51
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 31.51
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 35.86
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 7.75
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 15.76
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 15.76
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 17.94
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"GROUP": "Low iron glass",
+			"COLORS": [
+				{
+					"NAME": "Cashmere 7915",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/LowIronGlass/LowIronGlass_Cashmere7915.jpg"
+				},
+				{
+					"NAME": "Dakar 8115",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/LowIronGlass/LowIronGlass_Dakar8115.jpg"
+				},
+				{
+					"NAME": "Pearl White 1013",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/LowIronGlass/LowIronGlass_PearlWhite1013.jpg"
+				},
+				{
+					"NAME": "Stone Grey 8015",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/LowIronGlass/LowIronGlass_StoneGrey8015.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 126.68
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 223.41
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 223.41
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 254.22
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 79.18
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 139.63
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 139.63
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 158.89
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 52.78
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 93.08
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 93.08
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 105.93
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 39.58
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 69.81
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 69.81
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 79.45
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 19.79
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 34.91
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 34.91
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 39.72
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"GROUP": "Metallic coloured glass",
+			"COLORS": [
+				{
+					"NAME": "Blue Shadow 7000",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/MetallicColouredGlass/MetallicColouredGlass_BlueShadow7000.jpg"
+				},
+				{
+					"NAME": "Metal Taupe 0627",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/MetallicColouredGlass/MetallicColouredGlass_MetalTaupe0627.jpg"
+				},
+				{
+					"NAME": "Rich Aluminium 9007",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/MetallicColouredGlass/MetallicColouredGlass_RichAluminium9007.jpg"
+				},
+				{
+					"NAME": "Starlight Black 0337",
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/MetallicColouredGlass/MetallicColouredGlass_StarlightBlack0337.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "Metallic_Lacobel_Range",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 126.68
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 223.41
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 223.41
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 254.22
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 79.18
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 139.63
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 139.63
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 158.89
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 52.78
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 93.08
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 93.08
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 105.93
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 39.58
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 69.81
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 69.81
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 79.45
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 19.79
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 34.91
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 34.91
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 39.72
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"GROUP": "Coloured Glass",
+			"COLORS": [
+				{
+					"NAME": "Anthracite 7016",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_Anthracite7016.jpg"
+				},
+				{
+					"NAME": "Black 9005",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_Black9005.jpg"
+				},
+				{
+					"NAME": "Brown Light 1236",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_BrownLight1236.jpg"
+				},
+				{
+					"NAME": "Cappuccino 2230",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_Cappuccino2230.jpg"
+				},
+				{
+					"NAME": "Cherry Red 1586",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_CherryRed1586.jpg"
+				},
+				{
+					"NAME": "Green Artichoke 4620",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_GreenArtichoke4620.jpg"
+				},
+				{
+					"NAME": "Ivory 1015",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_Ivory1015.jpg"
+				},
+				{
+					"NAME": "Pink Nude 4320",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_PinkNude4320.jpg"
+				},
+				{
+					"NAME": "Pure White 9003",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_PureWhite9003.jpg"
+				},
+				{
+					"NAME": "Yellow Yuzu 4120",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_YellowYuzu4120.jpg"
+				},
+				{
+					"NAME": "Soft White 9010",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_SoftWhite9010.jpg"
+				},
+				{
+					"NAME": "Titanium Grey 9006",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_TitaniumGrey9006.jpg"
+				},
+				{
+					"NAME": "Blue Ice 4220",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_BlueIce4220.jpg"
+				},
+				{
+					"NAME": "Blue Vintage 4520",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_BlueVintage4520.jpg"
+				},
+				{
+					"NAME": "Orange Tangerine 4420",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_OrangeTangerine4420.jpg"
+				},
+				{
+					"NAME": "Green Teal 4020",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_GreenTeal4020.jpg"
+				},
+				{
+					"NAME": "Grey Classic 7035",
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"SRC": "static/IDSWebSwatches/ColouredGlass/ColouredGlass_GreyClassic7035.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "Standard_Lacobel_Range",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 66.99
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 118.16
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 118.16
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 134.43
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 41.87
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 73.85
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 73.85
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 84.02
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 27.93
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 49.23
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 49.23
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 56.02
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 20.95
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 36.94
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 36.94
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 42.01
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 10.48
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 18.47
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 18.47
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 21.00
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"GROUP": "Satin Glass Range",
+			"COLORS": [
+				{
+					"NAME": "Satin Blue Vintae 4520",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinBlueVintage4520.jpg"
+				},
+				{
+					"NAME": "Satin Bronze",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinBronze.jpg"
+				},
+				{
+					"NAME": "Satin Cashmere 7915",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinCashmere7915.jpg"
+				},
+				{
+					"NAME": "Satin Dakar 8115",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinDakar8115.jpg"
+				},
+				{
+					"NAME": "Satin Green Safari 4720",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinGreenSafari4720.jpg"
+				},
+				{
+					"NAME": "Satin Pink Nude 4320",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinPinkNude4320.jpg"
+				},
+				{
+					"NAME": "Satin Grey Silvered",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinGreySilvered.jpg"
+				},
+				{
+					"NAME": "Satin Metal Taupe 0627",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinMetalTaupe0627jpg.jpg"
+				},
+				{
+					"NAME": "Satin Silver",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinSilver.jpg"
+				},
+				{
+					"NAME": "Satin Stone Grey 8015",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinStoneGrey8015.jpg"
+				},
+				{
+					"NAME": "Satin White 9003",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinWhite9003.jpg"
+				},
+				{
+					"NAME": "Satin Green Teal 4020",
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"SRC": "static/IDSWebSwatches/SatinGlass/SatinGlass_SatinGreenTeal4020.jpg"
+				}
+			],
+			"PRICES": [
+				{
+					"PRICE_GROUP": "Satin_Glass_Range",
+					"EXTRA": true,
+					"HEIGHTS": [
+						{
+							"MAX": 2440,
+							"MIDRAIL": 0,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 161.15
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 284.21
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 284.21
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 323.40
+								}
+							]
+						},
+						{
+							"MAX": 1220,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 100.72
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 177.63
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 177.63
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 202.13
+								}
+							]
+						},
+						{
+							"MAX": 800,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 67.14
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 118.42
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 118.42
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 134.76
+								}
+							]
+						},
+						{
+							"MAX": 600,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 50.36
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 88.83
+								}, 
+								{
+									"SIZE": 1070,
+									"PRICE": 88.83
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 101.06
+								}
+							]
+						},
+						{
+							"MAX": 300,
+							"MIDRAIL": 1,
+							"SIZES": [
+								{
+									"SIZE": 610,
+									"PRICE": 25.19
+								},
+								{
+									"SIZE": 940,
+									"PRICE": 44.41
+								},
+								{
+									"SIZE": 1070,
+									"PRICE": 44.41
+								},
+								{
+									"SIZE": 1220,
+									"PRICE": 50.54
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"PROFILES": [
+		{
+			"NAME": "Kensington",
+			"OVERLAP": [25],
+			"TRACKS": [
+				{
+					"TRACK_TYPE": "Paint Double",
+					"COLORS": [
+						{
+							"NAME": "Light Gold",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Paint/Kensington_Paint_LightGold.jpg"
+						},
+						{
+							"NAME": "Titanium",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Paint/Kensington_Paint_Titanium.jpg"
+						},
+						{
+							"NAME": "White",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Paint/Kensington_Paint_White.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 23.17
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 23.17
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 25.75
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 28.83
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 90.81
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 114.57
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 123.66
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 132.79
+							}
+						]
+					},
+					"PRICES" : {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 19.53
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 26.47
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 33.43
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 47.24
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 61.14
+							}
+						]
+					}
+				},
+				{
+					"TRACK_TYPE": "Solid Vinyl Double",
+					"COLORS": [
+						{
+							"NAME": "White",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Vinyl/Kensington_Vinyl_White.jpg"
+						},
+						{
+							"NAME": "Cream",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Vinyl/Kensington_Vinyl_Cream.jpg"
+						},
+						{
+							"NAME": "Black",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Vinyl/Kensington_Vinyl_Black.jpg"
+						},
+						{
+							"NAME": "Cashmere",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Vinyl/Kensington_Vinyl_Cashmere.jpg"
+						},
+						{
+							"NAME": "Distressed Bronze",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_Vinyl/Kensington_Vinyl_DistressedBronze.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 23.17
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 23.17
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 25.75
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 28.83
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 101.28
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 127.26
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 136.97
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 146.71
+							}
+						]
+					},
+					"PRICES" : {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 24.70
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 34.04
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 43.62
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 62.33
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 85.08
+							}
+						]
+					}
+				},
+				{
+					"TRACK_TYPE": "Wood Grain",
+					"COLORS": [
+						{
+							"NAME": "Beech",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_WoodGrain/Kensington_WoodGrain_Beech.jpg"
+						},
+						{
+							"NAME": "Walnut",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_WoodGrain/Kensington_WoodGrain_Walnut.jpg"
+						},
+						{
+							"NAME": "Light Oak",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_WoodGrain/Kensington_WoodGrain_LightOak.jpg"
+						},
+						{
+							"NAME": "Dark Oak",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_WoodGrain/Kensington_WoodGrain_DarkOak.jpg"
+						},
+						{
+							"NAME": "Brushed Aluminium",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_WoodGrain/Kensington_WoodGrain_BrushedAluminium.jpg"
+						},
+						{
+							"NAME": "Brushed Anthracite",
+							"SRC": "static/IDSWebSwatches/KensingtonColours/Kensington_WoodGrain/Kensington_WoodGrain_BrushedAnthracite.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 23.17
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 23.17
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 25.75
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 28.83
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 101.28
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 127.26
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 136.97
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 146.71
+							}
+						]
+					},
+					"PRICES": {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 24.70
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 34.04
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 43.62
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 62.33
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 85.08
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"NAME": "Dual",
+			"OVERLAP": [34],
+			"TRACKS": [
+				{
+					"TRACK_TYPE": "Dual",
+					"COLORS": [
+						{
+							"NAME": "Silver",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Silver.jpg"
+						},
+						{
+							"NAME": "Olive",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Olive.jpg"
+						},
+						{
+							"NAME": "White",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_White.jpg"
+						},
+						{
+							"NAME": "Black",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Black.jpg"
+						},
+						{
+							"NAME": "Graphite",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Graphite.jpg"
+						},
+						{
+							"NAME": "Stone Grey",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Grey.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 26.88
+							},
+							{
+								"SIZE" : 940,
+								"PRICE": 26.88
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 32.26
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 32.26
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 156.13
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 191.38
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 205.28
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 221.19
+							}
+						]
+					},
+					"PRICES": {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 40.00
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 59.83
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 79.62
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 119.22
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 158.82
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"NAME": "Chic",
+			"OVERLAP": [26],
+			"TRACKS": [
+				{
+					"TRACK_TYPE": "Chic",
+					"COLORS": [
+						{
+							"NAME": "Silver",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Silver.jpg"
+						},
+						{
+							"NAME": "Olive",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Olive.jpg"
+						},
+						{
+							"NAME": "White",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_White.jpg"
+						},
+						{
+							"NAME": "Black",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Black.jpg"
+						},
+						{
+							"NAME": "Graphite",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Graphite.jpg"
+						},
+						{
+							"NAME": "Stone Grey",
+							"SRC": "static/IDSWebSwatches/SohoColours/SohoColours_Grey.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 26.88
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 26.88
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 32.26
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 32.26
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+								{
+								"SIZE": 610,
+								"PRICE": 156.13
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 191.38
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 205.28
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 221.19
+							}
+						]
+					},
+					"PRICES": {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 40.00
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 59.83
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 79.62
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 119.22
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 158.82
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"NAME": "Curve",
+			"OVERLAP": [51],
+			"TRACKS": [
+				{
+					"TRACK_TYPE": "Curve",
+					"COLORS": [
+						{
+							"NAME": "Cashmere Grey",
+							"SRC": "static/IDSWebSwatches/CurveColours/Curve_CashmereGrey.jpg"
+						},
+						{
+							"NAME": "Stone Grey",
+							"SRC": "static/IDSWebSwatches/CurveColours/Curve_StoneGrey.jpg"
+						},
+						{
+							"NAME": "White",
+							"SRC": "static/IDSWebSwatches/CurveColours/Curve_White.jpg"
+						},
+						{
+							"NAME": "Graphite",
+							"SRC": "static/IDSWebSwatches/CurveColours/Curve_Graphite.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 26.88
+							},
+							{
+								"SIZE" : 940,
+								"PRICE": 26.88
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 32.26
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 32.26
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 156.13
+							},
+							{
+								"SIZE" : 940,
+								"PRICE": 191.31
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 205.28
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 221.19
+							}
+						]
+					},
+					"PRICES": {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 40.00
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 59.83
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 79.62
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 119.22
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 158.82
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"NAME": "Raumplus",
+			"OPTIONS":["300a","300s"],
+			"OVERLAP": [29, 29],
+			"TRACKS": [
+				{
+					"TRACK_TYPE": "Silver Anodised",
+					"COLORS": [
+						{
+							"NAME": "Silver",
+							"SRC": "static/IDSWebSwatches/RaumplusColours/Raumplus_Silver.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 26.69
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 26.69
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 30.78
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 30.78
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 201.57
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 227.50 
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 240.75 
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 252.62 
+							}
+						]
+					},
+					"PRICES": {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 43.08
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 64.62
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 86.15
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 129.23
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 172.31
+							}
+						]
+					}
+				} 
+			]
+		},
+		{
+			"NAME": "Raumplus",
+			"OPTIONS":["640","650","752","S711"],
+			"OVERLAP": [32, 20, 26, 26],
+			"TRACKS": [
+				{
+					"TRACK_TYPE": "Silver Anodised 1",
+					"COLORS": [
+						{
+							"NAME": "Silver",
+							"SRC": "static/IDSWebSwatches/RaumplusColours/Raumplus_Silver.jpg"
+						}
+					],
+					"MIDRAILS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 26.69
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 26.69
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 30.78
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 30.78
+							}
+						]
+					},
+					"DOORS": {
+						"SIZES": [
+							{
+								"SIZE": 610,
+								"PRICE": 174.91
+							},
+							{
+								"SIZE": 940,
+								"PRICE": 203.37 
+							},
+							{
+								"SIZE": 1070,
+								"PRICE": 215.61 
+							},
+							{
+								"SIZE": 1220,
+								"PRICE": 233.78 
+							}
+						]
+					},
+					"PRICES": {
+						"SIZES": [
+							{
+								"SIZE": 1220,
+								"PRICE": 43.08
+							},
+							{
+								"SIZE": 1830,
+								"PRICE": 64.62
+							},
+							{
+								"SIZE": 2440,
+								"PRICE": 86.15
+							},
+							{
+								"SIZE": 3660,
+								"PRICE": 129.23
+							},
+							{
+								"SIZE": 4880,
+								"PRICE": 172.31
+							}
+						]
+					}
+				} 
+			]
+		}
+	],
+	"ADDITIONS": [
+		{
+			"TYPE": "COLOR",
+			"GROUP": "18mm Thick End Boards (100mm x 2600mm)",
+			"PRICE_TAG": "£12.43 + VAT",
+			"SRC": "static/img/board_100.jpg",
+			"DESC": "Can be used horizontally a floor liner or to finish off the top or sides of your wardrobe. Comes as a single panel with all sides edged. Our end boards come ready to cut up as necessary on site. These can also be used as a shelf rear support and shelf side supports as necessary. (Length 2600mm, Depth 100mm, Thickness 18mm)<br>If you add this it may affect your opening size. It is important that you deduct for this in the sizes given to us. IDS will not take deductions for the inclusion of any end boards selected such as a floor liner etc<br>",
+			"COLORS": [
+				{
+					"NAME": "Anthracite Fine Metalic H3190",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteFineMetallicH3190.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Anthracite Linen F433",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteLinenF433.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Anthracite Metal Fabric F461",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteMetalFabricF461.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Black Brown Ferrara Oak",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackBrownFerraraOakH1137.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Black Gold Metal Slate F629",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackGoldMetalSlateF629.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Black U999",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackU999.jpg",
+					"PRICE": 12.43
+				}, 
+				{
+					"NAME": "Black Pietra Grigia F206",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackPietraGrigiaF206.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Brushed Aluminium F501",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BrushedAluminiumF501.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Carbon Grey U968",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CarbonGreyU968.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Cashmere U702",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CashmereU702.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Crystal Marbel F800",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CrystalMarbleF800.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Elmau Beech H1582",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ElmauBeechH1582.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Fjord Green U636",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_FjordGreenU636.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Grey Textile F417",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyTextileF417.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Grey Vincenza Oak H3158",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyVincenzaOakH3158.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Kaiserberg Oak H3349",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_KaiserbergOakH3349.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Light Ferrara Oak H1334",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LightFerraraOakH1334.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Lincoln Walnut H1714",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LincolnWalnutH1714.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Natural Karini Walnut H3710",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_NaturalKariniWalnutH3710.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Dakar U717",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DakarU717.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Dark Grey Chicago Concrete F187",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DarkGreyChicagoConcreteF187.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Dust Grey U732",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DustGreyU732.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Oiled Kendal Oak H3171",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_OiledKendalOakH3171.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Pebble Grey U201",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PebbleGreyU201.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Premium White W1000",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PremiumWhiteW1000.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Shorewood H3090",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ShorewoodH3090.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Silver Grey Metal State F628",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SilverGreyMetalSlateF628.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Stone Grey U727",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_StoneGreyU727.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Super White Ash W980",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SuperWhiteAshW980.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Taupe Grey U750",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_TaupeGreyU750.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "Vintage Santa Fe Oak H1330",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColoursVintageSantaFeOakH1330.jpg",
+					"PRICE": 12.43
+				},
+				{
+					"NAME": "White Chromix F637",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_WhiteChromixF637.jpg",
+					"PRICE": 12.43
+				}
+			]
+		},
+		{
+			"TYPE": "COLOR",
+			"GROUP": "18mm Thick End Boards (610mm x 2600mm)",
+			"PRICE_TAG": "£52.84 +VAT",
+			"SRC": "static/img/board_650.jpg",
+			"DESC": "Can be used horizontally as a shelf or shelves or vertically as a support, divider or wardrobe end. Comes as a single panel with one long side and both short sides edged. Our end boards come ready to cut up as necessary on site. If used horizontally as a shelf, usually fitted using an 100mm shelf rear support and a set of shelf side supports as necessary. (Length 2600mm, Depth 650mm, Thickness 18mm)<br>If you add this it may affect your opening size. It is important that you deduct for this in the sizes given to us. IDS will not take deductions for the inclusion of any end boards selected such as a floor liner etc<br>",
+			"COLORS": [
+				{
+					"NAME": "Anthracite Fine Metalic H3190",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteFineMetallicH3190.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Anthracite Linen F433",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteLinenF433.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Anthracite Metal Fabric F461",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteMetalFabricF461.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Black Brown Ferrara Oak",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackBrownFerraraOakH1137.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Black Gold Metal Slate F629",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackGoldMetalSlateF629.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Black U999",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackU999.jpg",
+					"PRICE": 52.84
+				}, 
+				{
+					"NAME": "Black Pietra Grigia F206",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackPietraGrigiaF206.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Brushed Aluminium F501",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BrushedAluminiumF501.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Carbon Grey U968",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CarbonGreyU968.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Cashmere U702",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CashmereU702.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Crystal Marbel F800",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CrystalMarbleF800.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Elmau Beech H1582",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ElmauBeechH1582.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Fjord Green U636",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_FjordGreenU636.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Grey Textile F417",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyTextileF417.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Grey Vincenza Oak H3158",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyVincenzaOakH3158.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Kaiserberg Oak H3349",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_KaiserbergOakH3349.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Light Ferrara Oak H1334",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LightFerraraOakH1334.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Lincoln Walnut H1714",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LincolnWalnutH1714.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Natural Karini Walnut H3710",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_NaturalKariniWalnutH3710.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Dakar U717",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DakarU717.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Dark Grey Chicago Concrete F187",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DarkGreyChicagoConcreteF187.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Dust Grey U732",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DustGreyU732.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Oiled Kendal Oak H3171",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_OiledKendalOakH3171.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Pebble Grey U201",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PebbleGreyU201.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Premium White W1000",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PremiumWhiteW1000.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Shorewood H3090",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ShorewoodH3090.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Silver Grey Metal State F628",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SilverGreyMetalSlateF628.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Stone Grey U727",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_StoneGreyU727.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Super White Ash W980",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SuperWhiteAshW980.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Taupe Grey U750",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_TaupeGreyU750.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "Vintage Santa Fe Oak H1330",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColoursVintageSantaFeOakH1330.jpg",
+					"PRICE": 52.84
+				},
+				{
+					"NAME": "White Chromix F637",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_WhiteChromixF637.jpg",
+					"PRICE": 52.84
+				}
+			]
+		},
+		{
+			"TYPE": "COLOR",
+			"GROUP": "18mm Thick End Boards (500mm x 2600mm)",
+			"PRICE_TAG": "£42.74 + VAT",
+			"SRC": "static/img/board_650.jpg",
+			"DESC": "Can be used horizontally as a shelf or shelves or vertically as a support, divider or wardrobe end. Comes as a single panel with one long side and both short sides edged. Our end boards come ready to cut up as necessary on site. If used horizontally as a shelf, usually fitted using an 100mm shelf rear support and a set of shelf side supports as necessary. (Length 2600mm, Depth 500mm, Thickness 18mm)<br>If you add this it may affect your opening size. It is important that you deduct for this in the sizes given to us. IDS will not take deductions for the inclusion of any end boards selected such as a floor liner etc<br>",
+			"COLORS": [
+				{
+					"NAME": "Anthracite Fine Metalic H3190",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteFineMetallicH3190.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Anthracite Linen F433",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteLinenF433.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Anthracite Metal Fabric F461",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteMetalFabricF461.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Black Brown Ferrara Oak",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackBrownFerraraOakH1137.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Black Gold Metal Slate F629",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackGoldMetalSlateF629.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Black U999",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackU999.jpg",
+					"PRICE": 42.74
+				}, 
+				{
+					"NAME": "Black Pietra Grigia F206",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackPietraGrigiaF206.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Brushed Aluminium F501",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BrushedAluminiumF501.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Carbon Grey U968",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CarbonGreyU968.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Cashmere U702",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CashmereU702.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Crystal Marbel F800",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CrystalMarbleF800.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Elmau Beech H1582",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ElmauBeechH1582.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Fjord Green U636",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_FjordGreenU636.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Grey Textile F417",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyTextileF417.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Grey Vincenza Oak H3158",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyVincenzaOakH3158.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Kaiserberg Oak H3349",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_KaiserbergOakH3349.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Light Ferrara Oak H1334",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LightFerraraOakH1334.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Lincoln Walnut H1714",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LincolnWalnutH1714.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Natural Karini Walnut H3710",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_NaturalKariniWalnutH3710.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Dakar U717",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DakarU717.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Dark Grey Chicago Concrete F187",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DarkGreyChicagoConcreteF187.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Dust Grey U732",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DustGreyU732.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Oiled Kendal Oak H3171",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_OiledKendalOakH3171.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Pebble Grey U201",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PebbleGreyU201.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Premium White W1000",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PremiumWhiteW1000.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Shorewood H3090",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ShorewoodH3090.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Silver Grey Metal State F628",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SilverGreyMetalSlateF628.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Stone Grey U727",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_StoneGreyU727.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Super White Ash W980",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SuperWhiteAshW980.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Taupe Grey U750",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_TaupeGreyU750.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "Vintage Santa Fe Oak H1330",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColoursVintageSantaFeOakH1330.jpg",
+					"PRICE": 42.74
+				},
+				{
+					"NAME": "White Chromix F637",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_WhiteChromixF637.jpg",
+					"PRICE": 42.74
+				}
+			]
+		},
+		{
+			"TYPE": "QTY",
+			"GROUP": "Oval Chrome Hanging Rail (3m Length)",
+			"PRICE_TAG": "£17.11 + VAT",
+			"SRC": "static/img/hanging_rails.jpg",
+			"DESC": "To be used for hanging clothes and comes as a single pole and 4 end brackets ready to be cut down during install. Additional brackets and fittings may be needed with this item depending on the planned use.<br>",
+			"PRICE": 17.11
+		},
+		{
+			"TYPE": "QTY",
+			"GROUP": "Chrome Hanging Rail End Supports",
+			"PRICE_TAG": "£1.16 + VAT",
+			"SRC": "static/img/end_supports.jpg",
+			"DESC": "To be used at each end of a hanging rail to support it.<br>",
+			"PRICE": 1.16
+		},
+		{
+			"TYPE": "QTY",
+			"GROUP": "Chrome Hanging Rail Centre Supports",
+			"PRICE_TAG": "£1.16 + VAT",
+			"SRC": "static/img/center_supports.jpg",
+			"DESC": "To be used to join a vertical and horizontal hanging rail.<br>",
+			"PRICE": 1.50
+		},
+		{
+			"TYPE": "COLOR",
+			"GROUP": "Wardrobe 5 Shelve Unit (450mm Wide, 2050mm High)",
+			"PRICE_TAG": "£200.50 + VAT",
+			"SRC": "static/img/white_interior_unit.jpg",
+			"DESC": "The Unit comprises five shelves designed to be cost-effective while maximising space. Available in all MFC colours.<br>",
+			"COLORS": [
+				{
+					"NAME": "Anthracite Fine Metalic H3190",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteFineMetallicH3190.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Anthracite Linen F433",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteLinenF433.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Anthracite Metal Fabric F461",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_AnthraciteMetalFabricF461.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Black Brown Ferrara Oak",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackBrownFerraraOakH1137.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Black Gold Metal Slate F629",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackGoldMetalSlateF629.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Black U999",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackU999.jpg",
+					"PRICE": 200.50
+				}, 
+				{
+					"NAME": "Black Pietra Grigia F206",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BlackPietraGrigiaF206.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Brushed Aluminium F501",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_BrushedAluminiumF501.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Carbon Grey U968",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CarbonGreyU968.jpg",
+					"PRICE":200.50
+				},
+				{
+					"NAME": "Cashmere U702",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CashmereU702.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Crystal Marbel F800",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_CrystalMarbleF800.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Elmau Beech H1582",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ElmauBeechH1582.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Fjord Green U636",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_FjordGreenU636.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Grey Textile F417",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyTextileF417.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Grey Vincenza Oak H3158",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_GreyVincenzaOakH3158.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Kaiserberg Oak H3349",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_KaiserbergOakH3349.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Light Ferrara Oak H1334",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LightFerraraOakH1334.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Lincoln Walnut H1714",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_LincolnWalnutH1714.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Natural Karini Walnut H3710",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_NaturalKariniWalnutH3710.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Dakar U717",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DakarU717.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Dark Grey Chicago Concrete F187",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DarkGreyChicagoConcreteF187.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Dust Grey U732",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_DustGreyU732.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Oiled Kendal Oak H3171",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_OiledKendalOakH3171.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Pebble Grey U201",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PebbleGreyU201.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Premium White W1000",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_PremiumWhiteW1000.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Shorewood H3090",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_ShorewoodH3090.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Silver Grey Metal State F628",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SilverGreyMetalSlateF628.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Stone Grey U727",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_StoneGreyU727.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Super White Ash W980",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_SuperWhiteAshW980.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Taupe Grey U750",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_TaupeGreyU750.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "Vintage Santa Fe Oak H1330",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColoursVintageSantaFeOakH1330.jpg",
+					"PRICE": 200.50
+				},
+				{
+					"NAME": "White Chromix F637",
+					"SRC": "static/IDSWebSwatches/MFCStandardColours/MFCStandardColours_WhiteChromixF637.jpg",
+					"PRICE": 200.50
+				}
+			]
+		}
+	]
+}
